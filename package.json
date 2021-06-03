@@ -1,5 +1,5 @@
 {
-  "name": "practice_2_bootstrap",
+  "name": "practice_3",
   "version": "1.0.0",
   "description": "This project was created with usig Boostrap grids and flexbox",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MarynaNadeina/Practice2-Bootstrap.git"
+    "url": "git+https://github.com/MarynaNadeina/Practice_3__BEM.git"
   },
-  "author": "",
+  "author": "Marina_Nadeina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MarynaNadeina/Practice2-Bootstrap/issues"
+    "url": "https://github.com/MarynaNadeina/Practice_3__BEM/issues"
   },
-  "homepage": "https://github.com/MarynaNadeina/Practice2-Bootstrap#readme",
+  "homepage": "https://github.com/MarynaNadeina/Practice_3__BEM#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^2.26.14",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
